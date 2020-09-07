@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B2410C66-A1C8-47E9-930D-55B3A3D58E68}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HospitalManagementSystem</RootNamespace>
+    <AssemblyName>HospitalManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>D:\bunifuGUI\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Appointment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Appointment.Designer.cs">
+      <DependentUpon>Appointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="checkout.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="checkout.Designer.cs">
+      <DependentUpon>checkout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomMessageBox.Designer.cs">
+      <DependentUpon>CustomMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HMS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HMS.Designer.cs">
+      <DependentUpon>HMS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MedicineInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MedicineInfo.Designer.cs">
+      <DependentUpon>MedicineInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PatientInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PatientInformation.Designer.cs">
+      <DependentUpon>PatientInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RoomInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RoomInformation.Designer.cs">
+      <DependentUpon>RoomInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PatientRegistration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PatientRegistration.Designer.cs">
+      <DependentUpon>PatientRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DoctorInformation.Designer.cs">
+      <DependentUpon>DoctorInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test.cs" />
+    <Compile Include="testing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testing.Designer.cs">
+      <DependentUpon>testing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Wellcome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wellcome.Designer.cs">
+      <DependentUpon>Wellcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAPI.cs" />
+    <EmbeddedResource Include="Appointment.resx">
+      <DependentUpon>Appointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="checkout.resx">
+      <DependentUpon>checkout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomMessageBox.resx">
+      <DependentUpon>CustomMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HMS.resx">
+      <DependentUpon>HMS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MedicineInfo.resx">
+      <DependentUpon>MedicineInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientInformation.resx">
+      <DependentUpon>PatientInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RoomInformation.resx">
+      <DependentUpon>RoomInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PatientRegistration.resx">
+      <DependentUpon>PatientRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorInformation.resx">
+      <DependentUpon>DoctorInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testing.resx">
+      <DependentUpon>testing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wellcome.resx">
+      <DependentUpon>Wellcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>if exist "$(TargetPath).locked" del "$(TargetPath).locked"
+if exist "$(TargetPath)" if not exist "$(TargetPath).locked" move "$(TargetPath)" "$(TargetPath).locked"</PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

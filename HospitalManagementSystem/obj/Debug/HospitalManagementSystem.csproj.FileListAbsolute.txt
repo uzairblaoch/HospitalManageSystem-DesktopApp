@@ -1,0 +1,102 @@
+c:\users\uzair\documents\visual studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.mainform.resources
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.login.resources
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.registration.resources
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.information.resources
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.checkout.resources
+C:\Users\uzair\Documents\Visual Studio 2013\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+D:\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+D:\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojAssemblyReference.cache
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Appointment.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.checkout.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.CustomMessageBox.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.mainform.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MedicineInfo.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.RoomInformation.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.login.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientRegistration.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorInformation.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.testing.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Wellcome.resources
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CopyComplete
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+D:\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+D:\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientInformation.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojAssemblyReference.cache
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Appointment.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.checkout.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.CustomMessageBox.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.mainform.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MedicineInfo.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientInformation.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.RoomInformation.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.login.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientRegistration.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorInformation.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.testing.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Wellcome.resources
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CopyComplete
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+E:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojAssemblyReference.cache
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Appointment.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.checkout.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.CustomMessageBox.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.mainform.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MedicineInfo.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientInformation.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.RoomInformation.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.login.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientRegistration.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorInformation.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.testing.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Wellcome.resources
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CopyComplete
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+D:\Uzair docs\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csprojAssemblyReference.cache
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Appointment.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.checkout.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.CustomMessageBox.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.mainform.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.MedicineInfo.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientInformation.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.RoomInformation.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.login.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientRegistration.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorInformation.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.testing.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Wellcome.resources
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CopyComplete
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+G:\Uzair docs\C# Projects + Databases\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
