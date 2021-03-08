@@ -5,6 +5,6 @@ CLassic look UI Design using Bunifu
 Requirements :
   * Database
   
-Password :
+Credentials :
   username : admin  
   password : admin
